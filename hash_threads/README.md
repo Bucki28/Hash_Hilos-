@@ -16,6 +16,7 @@ Compilar:
 
     gcc main.c worker.c hash_utils.c -lpthread -o buscador_hash
 Y ejecutar:
+    
     ./buscador_hash 4
 
 ## Uso
