@@ -45,5 +45,7 @@ Busqueda finalizada.
 - La funcion hash y la validacion pueden adaptarse segun los requerimientos especificos del ejercicio.
 
 ## Notas
-
-Proyecto desarrollado con fines academicos para experimentar con procesamiento paralelo y evaluacion automatica de coincidencias en combinaciones generadas.
+Autor
+Miguel Angel Monroy Martin  
+Codigo 160004643
+.
