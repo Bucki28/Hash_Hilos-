@@ -13,9 +13,10 @@ Este programa realiza la busqueda de cadenas que cumplen una condicion especific
 
 Ejecutar el siguiente comando desde la terminal dentro de la carpeta del proyecto:
 Compilar:
-gcc main.c worker.c hash_utils.c -lpthread -o buscador_hash
+
+    gcc main.c worker.c hash_utils.c -lpthread -o buscador_hash
 Y ejecutar:
-./buscador_hash 4
+    ./buscador_hash 4
 
 ## Uso
 
